@@ -13,10 +13,11 @@
 </p>    
  
 <p align="center">
+  
 <img src="Cortex-AI-Software-Arbitrage-Bot-HFT-Demo.gif" alt="Cortex AI Arbitrage Dashboard Interface">
  </p>
 
-
+ 
 
 ## 🚀 Production Deployment & Executables / 生产环境部署与可执行文件
 
